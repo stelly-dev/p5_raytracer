@@ -1,0 +1,14 @@
+{
+  "name": "@stelly/create-p5-app",
+  "version": "1.0.0",
+  "description": "A simple server using reload and p5. ",
+  "main": "index.html",
+  "scripts": {
+    "start": "reload -b -e html,js,json"
+  },
+  "author": "Kelly Stratton",
+  "license": "ISC",
+  "devDependencies": {
+    "reload": "^3.0.4"
+  }
+}
